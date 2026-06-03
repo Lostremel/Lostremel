@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+- email: leo573492@gmail.com
 - 🌱 Estudando JavaScript
   
 <div style="display: inline_block"><br>
