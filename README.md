@@ -26,7 +26,7 @@
 <br>
 <br>
 
-<!-- Ícones de Habilidades com o GameMaker corrigido -->
+<!-- Tecnologias (com GameMaker) -->
 <div align="center">
   <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
@@ -35,15 +35,16 @@
   <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
   <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
   <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+  <img height="40" src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white">
 </div>
 
 <br>
 <br>
 
-<!-- Cards de Estatísticas com servidor estável -->
+<!-- Estatísticas estilo Segunda Foto (em Português) -->
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hak553&show_icons=true&theme=synthwave&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hak553&layout=compact&theme=synthwave&hide_border=true" alt="Linguagens Mais Usadas" />
+  <img height="180em" src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=hak553&show_icons=true&theme=dracula&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=hak553&layout=compact&theme=dracula&locale=pt-br" alt="Tecnologias" />
 </div>
 
 <br>
