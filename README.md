@@ -18,7 +18,7 @@
 
 <br>
 
-<!-- Contador de Visualizações do Perfil -->
+<!-- Contador de Visualizações -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hak553&color=A020F0&style=flat-square" alt="Profile Views" />
 </div>
@@ -26,24 +26,25 @@
 <br>
 <br>
 
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gamemaker-Dark.svg">
+<!-- Ícones de Habilidades com o GameMaker corrigido -->
+<div align="center">
+  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+  <img height="40" src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white">
 </div>
 
 <br>
 <br>
 
-<!-- Cards de Estatísticas do GitHub -->
+<!-- Cards de Estatísticas com servidor estável -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hak553&show_icons=true&theme=synthwave&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hak553&layout=compact&theme=synthwave&hide_border=true" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hak553&show_icons=true&theme=synthwave&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hak553&layout=compact&theme=synthwave&hide_border=true" alt="Linguagens Mais Usadas" />
 </div>
 
 <br>
