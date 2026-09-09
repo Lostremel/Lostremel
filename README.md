@@ -3,6 +3,8 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
 💻 Atualmente estudando:
+- Java
+- C
 - JavaScript
 - HTML
 - CSS
