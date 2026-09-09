@@ -18,33 +18,25 @@
 
 <br>
 
-<!-- Contador de Visualizações -->
+
+      
+<br>
+<br>
+      
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hak553&color=A020F0&style=flat-square" alt="Profile Views" />
+  
 </div>
 
-<br>
-<br>
-
-<!-- Tecnologias (com GameMaker) -->
-<div align="center">
-  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-  <img height="40" src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white">
-</div>
-
-<br>
-<br>
-
-<!-- Estatísticas estilo Segunda Foto (em Português) -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=hak553&show_icons=true&theme=dracula&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=hak553&layout=compact&theme=dracula&locale=pt-br" alt="Tecnologias" />
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+  
+  
 </div>
 
 <br>
@@ -78,8 +70,10 @@
   
 </div>
 
+
 <br>
 
 </details>
+
 
 <br>
