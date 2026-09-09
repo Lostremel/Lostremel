@@ -5,7 +5,6 @@
 </div>
 
 <div align="center">
-  
   <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
@@ -14,20 +13,18 @@
 </div>
 
 <div align="center" width="100%">
-  
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
 
-
-      
-<br>
-<br>
-      
+<!-- Contador de Visualizações do Perfil -->
 <div align="center">
-  
+  <img src="https://komarev.com/ghpvc/?username=hak553&color=A020F0&style=flat-square" alt="Profile Views" />
 </div>
+
+<br>
+<br>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
@@ -37,8 +34,16 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-  
-  
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gamemaker-Dark.svg">
+</div>
+
+<br>
+<br>
+
+<!-- Cards de Estatísticas do GitHub -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hak553&show_icons=true&theme=synthwave&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hak553&layout=compact&theme=synthwave&hide_border=true" alt="Linguagens Mais Usadas" />
 </div>
 
 <br>
@@ -72,10 +77,8 @@
   
 </div>
 
-
 <br>
 
 </details>
-
 
 <br>
